@@ -1,0 +1,5 @@
+-r requirements.txt
+manim==0.22.1
+# gTTS 2.5.4 requires Click <8.2; compatible with Manim's >=8.0.
+click==8.1.8
+cloup==3.0.8
